@@ -1,1 +1,6 @@
-relay/cmd/__debug_bin4215170261
+.env
+
+.relay/
+
+__debug_bin*
+.tor/
